@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+
+}
+
+.p1, .p2{
+  background-color: #fcba03;
+  border-radius: 25px;
+  padding: 1%;
+  margin: 1%;
+}
+
+#bar > a{
+  font-size: 300%;
+
+}
